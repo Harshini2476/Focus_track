@@ -4,6 +4,8 @@
   "version": "1.0.0",
   "type": "module",
 
+  "homepage": "https://harshini2476.github.io/Focus_track/",
+
   "scripts": {
     "dev": "vite",
     "build": "vite build",
