@@ -5,8 +5,4 @@ export default defineConfig({
   plugins: [react()],
 
   base: "/Focus_track/",
-
-  server: {
-    port: 5173,
-  },
 });
